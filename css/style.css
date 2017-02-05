@@ -1,0 +1,16 @@
+body {
+    /*background-color: black;*/
+    font-family: Lato, sans-serif;
+    font-weight: 900;
+    color: #676858;
+}
+.row {
+    /*border: 2px solid red;*/
+}
+
+.img-right {
+    margin-right: 0;
+}
+.h1Class {
+    font-weight: 100;
+}
